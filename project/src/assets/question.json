@@ -1,0 +1,96 @@
+{
+    "question": [{
+            "questionText": "Hyderabad is famous for which food?",
+            "options": [{
+                    "text": "Biryani",
+                    "correct": true
+                },
+                {
+                    "text": "Arabic Mandi"
+                },
+                {
+                    "text": "Ram ki bandi"
+                },
+                {
+                    "text": "All the Above"
+                }
+            ],
+            "explanation": "Hyderabad is famous for Biryani"
+        },
+     
+       
+        {
+            "questionText": "which music band has more number of fans?",
+            "options": [{
+                    "text": "BTS",
+                    "correct": true
+                },
+                {
+                    "text": "Blackpink"
+                },
+                {
+                    "text": "EXo"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "BTS music band has more number of fans"
+        },
+        {
+            "questionText": "which of the following is capital of south Korea?",
+            "options": [{
+                    "text": "Newyork"
+                },
+                {
+                    "text": "London"
+                },
+                {
+                    "text": " New Delhi"
+                },
+                {
+                    "text": "Seoul",
+                    "correct": true
+                }
+            ],
+            "explanation": "Seoul "
+        },
+      
+        {
+            "questionText": "  Tourist place in Hyderabad ?",
+            "options": [{
+                    "text": "Charminar",
+                    "correct": true
+                },
+                {
+                    "text": "Taj Mahal"
+                },
+                {
+                    "text": "Lotus Temple"
+                },
+                {
+                    "text": "Golden temple"
+                }
+            ],
+            "explanation": "Charminar"
+        },
+        {
+            "questionText": "which is called ricebowl of India?",
+            "options": [{
+                    "text": "Krishna and godavari delta",
+                    "correct": true
+                },
+                {
+                    "text": "kochi"
+                },
+                {
+                    "text": "thar desert"
+                },
+                {
+                    "text": "Himalayas"
+                }
+            ],
+            "explanation": "Krishna and  Godavari delta region"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+<div class="container bg-dark py-5" style="border:solid black">
+    <h1 class="display-5 fw-bold" style="color:azure">Archana's Quiz </h1>
+    <p class="col-md-8 fs-4" style="color:azure">This Quiz Contains 5 Questions </p>
+    <h4 style="color:azure">Instructions:</h4>
+    <ol style="color:azure">
+        <li>
+            Attempt All questions.
+        </li>
+        <li>
+            correct answer: +10 marks
+        </li>
+        <li>
+            Wrong answer:-10 marks
+                </li>
+        <li>
+            Don't  Cheat,Try to be Sincere
+        </li>
+    </ol>
+    <div class="name col-md-4 my-3">
+        <label for="">Enter name*</label>
+        <input #name type="text" class="form-control">
+
+    </div>
+    <button class="btn btn-primary btn-lg" routerLink="/question" (click)="startQuiz()">Start!!</button>
+
+</div>
